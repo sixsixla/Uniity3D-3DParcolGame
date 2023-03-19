@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3195540512
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6273cd3dfbcf3acac88dee860923d0d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 59e4ffc1d58c2b8918e1f96cdb82ca30
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c401804f51fc4d54fb258949ead0ded1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3efa00becedf9ae4ea24e570bc92a972, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99d541ae85b38654a99fbbb84434e43f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d99b210cad52aff4db57da0750ae1dd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 511dd56989b75144cbef988a42a4afa9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Characters/Cat/character.prefab
+Dependencies: []
